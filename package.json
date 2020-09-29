@@ -1,6 +1,6 @@
 {
-  "name": "socketio-jwt",
-  "version": "4.6.2",
+  "name": "@arthit75420/socketio-jwt-pos",
+  "version": "1.0.1",
   "description": "authenticate socket.io connections using JWTs",
   "main": "lib/index.js",
   "types": "./types/index.d.ts",
@@ -9,14 +9,10 @@
     "socket.io",
     "jwt"
   ],
-  "author": {
-    "name": "José F. Romaniello",
-    "email": "jfromaniello@gmail.com",
-    "url": "http://joseoncode.com"
-  },
+  "author": "SAN <arthit75420@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/auth0/socketio-jwt.git"
+    "url": "git+https://github.com/arthit75420/socketio-jwt-pos.git"
   },
   "scripts": {
     "test": "mocha"
@@ -38,5 +34,14 @@
     "should": "~11.2.1",
     "socket.io": "^1.7.3",
     "socket.io-client": "^1.7.3"
+  },
+  "bugs": {
+    "url": "https://github.com/arthit75420/socketio-jwt-pos/issues"
+  },
+  "homepage": "https://github.com/arthit75420/socketio-jwt-pos#readme",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
   }
 }

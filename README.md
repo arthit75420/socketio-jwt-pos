@@ -1,36 +1,12 @@
-# socketio-jwt
+# socketio-jwt-pos
 
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors)
  <img src="https://img.shields.io/badge/community-driven-brightgreen.svg"/> <br>
 
-### Contributors
-
-Thanks goes to these wonderful people who contribute(d) or maintain(ed) this repo ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#review-beardaway" title="Reviewed Pull Requests">👀</a> <a href="#maintenance-beardaway" title="Maintenance">🚧</a></td>
-    <td align="center"><a href="https://github.com/Annyv2"><img src="https://avatars3.githubusercontent.com/u/5016479?v=4" width="100px;" alt="Annyv2"/><br /><sub><b>Annyv2</b></sub></a><br /><a href="https://github.com/auth0-community/auth0-socketio-jwt/commits?author=Annyv2" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Amialc"><img src="https://avatars0.githubusercontent.com/u/1114365?v=4" width="100px;" alt="Vladyslav Martynets"/><br /><sub><b>Vladyslav Martynets</b></sub></a><br /><a href="https://github.com/auth0-community/auth0-socketio-jwt/commits?author=Amialc" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/pose"><img src="https://avatars3.githubusercontent.com/u/419703?v=4" width="100px;" alt="Alberto Pose"/><br /><sub><b>Alberto Pose</b></sub></a><br /><a href="https://github.com/auth0-community/auth0-socketio-jwt/commits?author=pose" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/Root-Core"><img src="https://avatars2.githubusercontent.com/u/5329652?v=4" width="100px;" alt="Root-Core"/><br /><sub><b>Root-Core</b></sub></a><br /><a href="https://github.com/auth0-community/auth0-socketio-jwt/commits?author=Root-Core" title="Code">💻</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-## Intro
-
-Authenticate socket.io incoming connections with JWTs. This is useful if you are building a single page application and you are not using cookies as explained in this blog post: [Cookies vs Tokens. Getting auth right with Angular.JS](http://blog.auth0.com/2014/01/07/angularjs-authentication-with-cookies-vs-token/).
-
-This repo is supported and maintained by Community Developers, not Auth0. For more information about different support levels check https://auth0.com/docs/support/matrix .
-
 ## Installation
 
 ```bash
-npm install socketio-jwt
+npm install socketio-jwt-pos
 ```
 
 ## Usage
@@ -284,12 +260,6 @@ You might run the unit tests, before creating a PR:
 ```bash
 npm test
 ```
-
-## Issues Reporting
-
-Spotted a bug or any other kind of issue? We're just humans and we're always waiting for constructive feedback! Check our section on how to [report issues](https://github.com/auth0-community/getting-started/blob/master/CONTRIBUTION.md#issues)!
-
-Here you can also find the [Issue template](https://github.com/auth0-community/socketio-jwt/blob/master/ISSUE_TEMPLATE.md) to fill once opening a new issue. It will automatically appear once you create an issue.
 
 ## Repo Community
 
